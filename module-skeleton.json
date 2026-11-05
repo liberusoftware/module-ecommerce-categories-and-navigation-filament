@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-categories-and-navigation-filament",
+  "capabilityKey": "planned:ecommerce:categories-and-navigation",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-categories-and-navigation-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/categories-and-navigation.md",
+  "presentationPlan": "projects/ecommerce/filament/categories-and-navigation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

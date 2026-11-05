@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-categories-and-navigation-filament",
+  "description": "Categories and Navigation Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability1af31648c501\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-categories-and-navigation-filament"
+    }
+  }
+}
